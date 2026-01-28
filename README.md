@@ -1,4 +1,4 @@
-## Greetings! 👋
+## 👋
 > [🇧🇷 PT-BR](README.pt_BR.md)  
 
 Tech enthusiast and a professionally-amateur photographer  
