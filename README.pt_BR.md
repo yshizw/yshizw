@@ -1,26 +1,14 @@
-## Olá! 👋
+## 👋
 > [🇺🇸 EN](README.md)  
 
-Estudante de Ciência da Computação, entusiasta de tecnologia e fotógrafo amador por profissão
+Entusiasta de tecnologia e fotógrafo profissionalmente amador
 
 ---
 
 ### Sobre mim:
 
-- 💡 Forte interesse em Cibersegurança e gosto adquirido pela programação em si
-- 📚 Atualmente estudando de forma prática ferramentas como: Wireshark, Nmap e Splunk, enquanto aprofundo meus fundamentos
-- 🔭 Campeão municipal do ficar-em-casa, curto treinar, fotografia de rua e, periodicamente, alguns jogos (de recente, exclusivamente jRPGs)
-
----
-
-### Stack:
-
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)](#)
+- 💡 Forte interesse em Cibersegurança e tudo que envolve Linux
+- 📚 Atualmente trabalhando com Infraestrutura de TI, em transição de carreira
 
 ---
 
